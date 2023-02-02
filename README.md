@@ -1,2 +1,1 @@
-# prepCourse
-repositorio del prep Curse de henry 
+este proyeco es una prueba de como clonar un repositorio desde github
